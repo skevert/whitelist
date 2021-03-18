@@ -27,6 +27,7 @@ b-api.facebook.com
 b-graph.facebook.com
 beforeitsnews.com
 bigzipfiles.facebook.com
+bilnorge.no
 bit.ly
 c.s-microsoft.com
 captive.apple.com
